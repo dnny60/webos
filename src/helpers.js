@@ -57,7 +57,11 @@ export function getFunName() {
     "scary",
     "thoughtless",
     "uptight",
-    "worried"
+    "worried",
+    'Fucker',
+    'fuck',
+    'wanker',
+    'buster',
   ];
 
   const nouns = [
@@ -90,7 +94,11 @@ export function getFunName() {
     "crises",
     "phenomena",
     "criteria",
-    "data"
+    "data",
+    'Fucker',
+    'fuck',
+    'wanker',
+    'buster',
   ];
 
   return `${rando(adjectives)}-${rando(adjectives)}-${rando(nouns)}`;
